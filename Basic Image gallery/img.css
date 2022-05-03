@@ -1,0 +1,9 @@
+body{
+  padding-top: 70px;
+}
+.jumbotron{
+  color:#2e3c50;
+}
+.navbar-inverse{
+  background: #2e3c50;
+}
